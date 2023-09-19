@@ -37,7 +37,6 @@ This is a Python-based Library Management System (LMS) project that utilizes the
 - **Python:** The core programming language used to develop the application.
 - **Tkinter:** A Python library for creating graphical user interfaces.
 - **MySQL:** A relational database management system used for data storage.
-- **SQLAlchemy:** An ORM (Object-Relational Mapping) library for Python used to interact with the MySQL database.
 - **Git:** Version control system for managing and tracking changes in the project.
 - **GitHub:** Hosting the project repository for collaboration and code sharing.
 
