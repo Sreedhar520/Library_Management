@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python-based Library Management System (LMS) project that utilizes the Tkinter library for the user interface and MySQL as the database. The primary goal of this project is to help libraries manage their operations efficiently, including student registration, book management, fine calculation, donation tracking, issuing books, returning books, and payment processing.
+This is a Python-based Library Management System (LMS) project that utilizes the Tkinter library for the user interface and MySQL as the database. The primary goal of this project is to help libraries manage their operations efficiently, including student registration, book management, fine calculation, issuing books, returning books, and payment processing.
 
 ## Features
 
@@ -25,10 +25,7 @@ This is a Python-based Library Management System (LMS) project that utilizes the
 ### 5. Fine Calculation
 - Automatically calculates fines for late returns based on predefined rules.
 
-### 6. Donation Tracking
-- Keeps a record of book donations, including donor information and book details.
-
-### 7. Payment Processing
+### 6 Payment Processing
 - Handles fines and payments from students.
 - Generates receipts for payments made.
 
